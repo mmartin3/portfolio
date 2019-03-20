@@ -1,0 +1,118 @@
+    .infobox img
+    {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      height: 360px;
+      width: auto;
+    }
+    
+    li
+    {
+      list-style-type: circle;
+      font-size: 1.4em;
+      font-weight: bold;
+    }
+    
+    li a
+    {
+      color: black;
+    }
+    
+    li a:link {color: #19304f;}
+    li a:visited {color: #19304f;}
+    li a:hover {color: #306bb7;}
+    li a:active {color: #19304f;}
+    
+    #wrapper
+    {
+      margin-right: auto;
+      margin-left: auto;
+      width: 94%;
+    }
+    
+    #header
+    {
+      height: 100px;
+      background-color: #306bb7;
+      text-align: center;
+      color: white;
+      font-variant: small-caps;
+    }
+    
+    #header h1
+    {
+      line-height: 60px;
+      font-size: 2.2em;
+      margin-bottom: 0px;
+    }
+    
+    #header a
+    {
+    	font-weight: bold;
+    	font-size: 1.4em;
+    }
+    
+    #header a:link {color: white;}
+    #header a:visited {color: white;}
+    #header a:hover {color: #839ab8;}
+    #header a:active {color: white;}
+    
+    #sidebar
+    {
+      margin-top: 10px;
+      margin-right: 10px;
+      margin-left: 10px;
+      float: left;
+      width: 25%;
+      font-variant:small-caps;
+    }
+    
+    .button
+    {
+      background-color: #306bb7;
+      color: white;
+      height: 60px;
+      text-align: center;
+      font-size: 1em;
+      font-weight: bold;
+      margin: 10px 0px 10px 0px;
+	  cursor: pointer;
+    }
+    
+    .button p
+    {
+      line-height: 60px;
+    }
+    
+    #footer
+    {
+      float: left;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      clear: both;
+      width: 100%;
+      background-color: #839ab8;
+      text-align: center;
+    }
+    
+    div .info 
+    {
+      margin-top: 10px;
+      margin-right: 10px;
+      float: right;
+      width: 70%;
+    }
+    
+    .infobox
+    {
+      margin-bottom: 10px;
+      background-color: #839ab8;
+      padding: 10px 10px 10px 10px;
+    }
+    
+    .tag
+    {
+      padding: 0px 20px 0px 20px;
+      margin-top: 0px;
+    }
